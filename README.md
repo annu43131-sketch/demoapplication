@@ -37,7 +37,7 @@ Language: Java
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/inventory-manager.git
+git clone  https://github.com/annu43131-sketch/inventory-manager.git 
 Configure database in application.properties:
 
 properties
